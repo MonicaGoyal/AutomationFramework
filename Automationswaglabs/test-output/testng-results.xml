@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-25T17:20:32 IST" name="Suite" finished-at="2022-03-25T17:20:57 IST" duration-ms="25730">
+    <groups>
+    </groups>
+    <test started-at="2022-03-25T17:20:32 IST" name="Test" finished-at="2022-03-25T17:20:57 IST" duration-ms="25730">
+      <class name="com.swaglabs.qa.testcases.LogOutPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.swaglabs.qa.testcases.LogOutPageTest@3967e60c]" started-at="2022-03-25T17:20:44 IST" name="setup" finished-at="2022-03-25T17:20:46 IST" duration-ms="2066" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyinglogoutbtnTest()[pri:2, instance:com.swaglabs.qa.testcases.LogOutPageTest@3967e60c]" started-at="2022-03-25T17:20:46 IST" name="VerifyinglogoutbtnTest" finished-at="2022-03-25T17:20:48 IST" duration-ms="1420" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyinglogoutbtnTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.swaglabs.qa.testcases.LogOutPageTest@3967e60c]" started-at="2022-03-25T17:20:48 IST" name="teardown" finished-at="2022-03-25T17:20:48 IST" duration-ms="263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.swaglabs.qa.testcases.LogOutPageTest -->
+      <class name="com.swaglabs.qa.testcases.LoginPageTest">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.swaglabs.qa.testcases.LoginPageTest@20d28811]" started-at="2022-03-25T17:20:39 IST" name="Setup" finished-at="2022-03-25T17:20:41 IST" duration-ms="1939" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="swaglogodisplaytest()[pri:1, instance:com.swaglabs.qa.testcases.LoginPageTest@20d28811]" started-at="2022-03-25T17:20:41 IST" name="swaglogodisplaytest" finished-at="2022-03-25T17:20:41 IST" duration-ms="46" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- swaglogodisplaytest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.swaglabs.qa.testcases.LoginPageTest@20d28811]" started-at="2022-03-25T17:20:41 IST" name="teardown" finished-at="2022-03-25T17:20:42 IST" duration-ms="193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.swaglabs.qa.testcases.LoginPageTest@20d28811]" started-at="2022-03-25T17:20:42 IST" name="Setup" finished-at="2022-03-25T17:20:44 IST" duration-ms="2035" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="loginTest()[pri:2, instance:com.swaglabs.qa.testcases.LoginPageTest@20d28811]" started-at="2022-03-25T17:20:44 IST" name="loginTest" finished-at="2022-03-25T17:20:44 IST" duration-ms="270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.swaglabs.qa.testcases.LoginPageTest@20d28811]" started-at="2022-03-25T17:20:44 IST" name="teardown" finished-at="2022-03-25T17:20:44 IST" duration-ms="190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.swaglabs.qa.testcases.LoginPageTest -->
+      <class name="com.swaglabs.qa.testcases.CheckoutPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.swaglabs.qa.testcases.CheckoutPageTest@60d8c9b7]" started-at="2022-03-25T17:20:48 IST" name="setup" finished-at="2022-03-25T17:20:51 IST" duration-ms="2871" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="enteringcheckoutDetailsTest()[pri:1, instance:com.swaglabs.qa.testcases.CheckoutPageTest@60d8c9b7]" started-at="2022-03-25T17:20:51 IST" name="enteringcheckoutDetailsTest" finished-at="2022-03-25T17:20:51 IST" duration-ms="795" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enteringcheckoutDetailsTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.swaglabs.qa.testcases.CheckoutPageTest@60d8c9b7]" started-at="2022-03-25T17:20:51 IST" name="teardown" finished-at="2022-03-25T17:20:52 IST" duration-ms="280" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.swaglabs.qa.testcases.CheckoutPageTest -->
+      <class name="com.swaglabs.qa.testcases.HomePageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.swaglabs.qa.testcases.HomePageTest@3cc2931c]" started-at="2022-03-25T17:20:32 IST" name="setup" finished-at="2022-03-25T17:20:36 IST" duration-ms="4261" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addtoCartTest()[pri:1, instance:com.swaglabs.qa.testcases.HomePageTest@3cc2931c]" started-at="2022-03-25T17:20:36 IST" name="addtoCartTest" finished-at="2022-03-25T17:20:36 IST" duration-ms="319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtoCartTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.swaglabs.qa.testcases.HomePageTest@3cc2931c]" started-at="2022-03-25T17:20:36 IST" name="teardown" finished-at="2022-03-25T17:20:37 IST" duration-ms="380" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.swaglabs.qa.testcases.HomePageTest@3cc2931c]" started-at="2022-03-25T17:20:37 IST" name="setup" finished-at="2022-03-25T17:20:39 IST" duration-ms="2352" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="clicktoCarTTest()[pri:2, instance:com.swaglabs.qa.testcases.HomePageTest@3cc2931c]" started-at="2022-03-25T17:20:39 IST" name="clicktoCarTTest" finished-at="2022-03-25T17:20:39 IST" duration-ms="241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clicktoCarTTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.swaglabs.qa.testcases.HomePageTest@3cc2931c]" started-at="2022-03-25T17:20:39 IST" name="teardown" finished-at="2022-03-25T17:20:39 IST" duration-ms="243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.swaglabs.qa.testcases.HomePageTest -->
+      <class name="com.swaglabs.qa.testcases.CartPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.swaglabs.qa.testcases.CartPageTest@48aaecc3]" started-at="2022-03-25T17:20:52 IST" name="setup" finished-at="2022-03-25T17:20:54 IST" duration-ms="1907" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="clickingcheckoutLinkTest()[pri:1, instance:com.swaglabs.qa.testcases.CartPageTest@48aaecc3]" started-at="2022-03-25T17:20:54 IST" name="clickingcheckoutLinkTest" finished-at="2022-03-25T17:20:54 IST" duration-ms="506" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickingcheckoutLinkTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.swaglabs.qa.testcases.CartPageTest@48aaecc3]" started-at="2022-03-25T17:20:54 IST" name="teardown" finished-at="2022-03-25T17:20:54 IST" duration-ms="270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.swaglabs.qa.testcases.CartPageTest@48aaecc3]" started-at="2022-03-25T17:20:54 IST" name="setup" finished-at="2022-03-25T17:20:56 IST" duration-ms="1990" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addedproductTest()[pri:2, instance:com.swaglabs.qa.testcases.CartPageTest@48aaecc3]" started-at="2022-03-25T17:20:56 IST" name="addedproductTest" finished-at="2022-03-25T17:20:57 IST" duration-ms="602" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addedproductTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.swaglabs.qa.testcases.CartPageTest@48aaecc3]" started-at="2022-03-25T17:20:57 IST" name="teardown" finished-at="2022-03-25T17:20:57 IST" duration-ms="243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.swaglabs.qa.testcases.CartPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
